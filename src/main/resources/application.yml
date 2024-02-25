@@ -20,7 +20,7 @@ mybatis-plus:
       id-type: ASSIGN_ID
 
 reggie:
-  path: E:\code\idea_workspace\reggie_take_out\img\
+  path: E:\code\idea_workspace\reggie\img\
 
 # 短信发送参数
 txsms:
